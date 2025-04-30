@@ -47,7 +47,7 @@ dvc add data/data.csv
 git add data/data.csv.dvc .gitignore
 git commit -m "Add dataset to DVC"
 ```
-🧠 Model Training and MLflow Logging
+Model Training and MLflow Logging
 ### 8. Create the Training Script
 ```
 mkdir src && touch src/train.py
@@ -92,7 +92,7 @@ mlflow ui
 ```
 Navigate to http://localhost:5000 to view experiment results.
 
-🛠️ Build DVC Pipeline
+Build DVC Pipeline
 ### 11. Create params.yaml
 ```
 train:
