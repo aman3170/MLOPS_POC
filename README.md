@@ -8,11 +8,11 @@ A reproducible machine learning project setup using **MLflow** for experiment tr
 
 ### 1. Install Prerequisites
 
-# Install Homebrew (if not already installed)
+Install Homebrew (if not already installed)
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-# Install Python & Git
+Install Python & Git
 ```
 brew install python git
 ```
