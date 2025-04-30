@@ -1,4 +1,4 @@
-# MLflow + DVC Project Template
+# MLflow + DVC Project
 
 A reproducible machine learning project setup using **MLflow** for experiment tracking and **DVC** for data and model versioning.
 
