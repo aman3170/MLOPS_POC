@@ -1,10 +1,10 @@
-# 🧪 MLflow + DVC Project Template
+# MLflow + DVC Project Template
 
 A reproducible machine learning project setup using **MLflow** for experiment tracking and **DVC** for data and model versioning.
 
 ---
 
-## 🚀 Project Setup (macOS/Linux)
+## Project Setup (macOS/Linux)
 
 ### 1. Install Prerequisites
 
